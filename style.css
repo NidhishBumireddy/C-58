@@ -56,5 +56,8 @@ cursor: pointer;
     padding-left: 9px;
     padding-right: 9px;
     padding-bottom: 5px;
-    font-family: ;
+    font-family: fantasy;
+}
+a{
+    text-decoration: none;
 }
